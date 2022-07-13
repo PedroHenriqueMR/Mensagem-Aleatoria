@@ -2,7 +2,7 @@ let texto = [
     {Mensagem: "Bom dia"},
     {Mensagem: "Boa tarde"},
     {Mensagem: "Boa noite"},
-    {Mensagem: "Bom dia"}
+    {Mensagem: "É isso ai"}
 ];
 
 export default texto;
